@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "axios": "^1.7.8",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "express-handlebars": "^8.0.1",
+    "nodemailer": "^6.10.0"
+  },
+  "scripts": {
+    "start": "node Xtremebackend/backend/app.js"
+  }
+}
+
